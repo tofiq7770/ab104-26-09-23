@@ -1,0 +1,15 @@
+C:\Users\tofiq\Desktop\Ab104Firsttask\Firsttask\Firsttask\bin\Debug\net6.0\Firsttask.exe
+C:\Users\tofiq\Desktop\Ab104Firsttask\Firsttask\Firsttask\bin\Debug\net6.0\Firsttask.deps.json
+C:\Users\tofiq\Desktop\Ab104Firsttask\Firsttask\Firsttask\bin\Debug\net6.0\Firsttask.runtimeconfig.json
+C:\Users\tofiq\Desktop\Ab104Firsttask\Firsttask\Firsttask\bin\Debug\net6.0\Firsttask.dll
+C:\Users\tofiq\Desktop\Ab104Firsttask\Firsttask\Firsttask\bin\Debug\net6.0\Firsttask.pdb
+C:\Users\tofiq\Desktop\Ab104Firsttask\Firsttask\Firsttask\obj\Debug\net6.0\Firsttask.csproj.AssemblyReference.cache
+C:\Users\tofiq\Desktop\Ab104Firsttask\Firsttask\Firsttask\obj\Debug\net6.0\Firsttask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tofiq\Desktop\Ab104Firsttask\Firsttask\Firsttask\obj\Debug\net6.0\Firsttask.AssemblyInfoInputs.cache
+C:\Users\tofiq\Desktop\Ab104Firsttask\Firsttask\Firsttask\obj\Debug\net6.0\Firsttask.AssemblyInfo.cs
+C:\Users\tofiq\Desktop\Ab104Firsttask\Firsttask\Firsttask\obj\Debug\net6.0\Firsttask.csproj.CoreCompileInputs.cache
+C:\Users\tofiq\Desktop\Ab104Firsttask\Firsttask\Firsttask\obj\Debug\net6.0\Firsttask.dll
+C:\Users\tofiq\Desktop\Ab104Firsttask\Firsttask\Firsttask\obj\Debug\net6.0\refint\Firsttask.dll
+C:\Users\tofiq\Desktop\Ab104Firsttask\Firsttask\Firsttask\obj\Debug\net6.0\Firsttask.pdb
+C:\Users\tofiq\Desktop\Ab104Firsttask\Firsttask\Firsttask\obj\Debug\net6.0\Firsttask.genruntimeconfig.cache
+C:\Users\tofiq\Desktop\Ab104Firsttask\Firsttask\Firsttask\obj\Debug\net6.0\ref\Firsttask.dll
